@@ -19,7 +19,7 @@
 
 #### Stats :bar_chart:
 
-<div style="display:flex">
+<div style="color:red">
 
   <div>
   
