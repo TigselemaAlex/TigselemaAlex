@@ -19,35 +19,6 @@
 
 #### Stats :bar_chart:
 
-<p style="color:red">
-
-  <div>
-  
-  asdasd
-    
-  </div>
-  
-    
-  
-  <div>
-
-  asdasd
-    
-  </div>
-  
-  <div>
-
-
-  asdad
-  
-  
-    
-  </div>
-   
-  
-   
-  
-</p>
 
 [![Alex's github streak](https://github-readme-streak-stats.herokuapp.com/?user=TigselemaAlex&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
