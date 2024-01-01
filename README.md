@@ -1,5 +1,7 @@
-### Hello!!! 👋 I am a full stack software engineer specialized in Spring Boot & Angular technologies. 
+
 ![title](./hero.png)
+### Hello!!! 👋 I am a full stack software engineer specialized in Spring Boot & Angular technologies.
+#### Technologies
 
 <!--
 **TigselemaAlex/TigselemaAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
