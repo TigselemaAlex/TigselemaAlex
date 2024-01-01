@@ -14,16 +14,22 @@
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-<h1>hELLO</h1>
 
 
 
 #### Stats :bar_chart:
-[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=TigselemaAlex&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<div style="display:flex; flex-direction:column; align-items:center">
+
+  [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=TigselemaAlex&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Alex's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TigselemaAlex&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Alex's github streak](https://github-readme-streak-stats.herokuapp.com/?user=TigselemaAlex&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  
+</div>
+
+
 <!--
 **TigselemaAlex/TigselemaAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
