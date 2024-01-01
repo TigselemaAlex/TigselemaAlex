@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!!! 👋 I am a full stack software engineer specialized in Spring Boot & Angular technologies. 
 ![title](./hero.png)
 
 <!--
