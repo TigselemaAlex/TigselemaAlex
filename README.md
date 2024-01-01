@@ -21,7 +21,11 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TigselemaAlex&theme=dracula" alt="stat1">
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TigselemaAlex&theme=dracula" alt="stat2">
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TigselemaAlex&theme=dracula" alt="stat3">
 </p>
 
