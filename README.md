@@ -2,7 +2,7 @@
 ![title](./hero.png)
 ### Hello!!! 👋 I am a full stack software engineer specialized in Spring Boot & Angular technologies. :grinning:
 
-###About me :bowtie:
+### About me :bowtie:
 I am 29 years old, from Ecuador. :stars: I like to be always learning new things. In my free time I listen to rock music :guitar: while I play video games like League of Legends or some racing simulation game :video_game:.
 
 ### Technologies that I use :computer:
