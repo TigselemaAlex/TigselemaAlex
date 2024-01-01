@@ -19,7 +19,7 @@
 
 #### Stats :bar_chart:
 
-<div style="display:flex; flex-direction:column; align-items:center">
+<div style="display:flex;">
 
   [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=TigselemaAlex&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
