@@ -3,11 +3,11 @@
 ### Hello!!! 👋 I am a full stack software engineer specialized in Spring Boot & Angular technologies.
 #### Technologies
 #### Stats
-[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=TigselemaAlex&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=TigselemaAlex&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TigselemaAlex&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TigselemaAlex&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=TigselemaAlex&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=TigselemaAlex&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--
 **TigselemaAlex/TigselemaAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
