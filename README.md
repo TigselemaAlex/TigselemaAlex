@@ -19,8 +19,12 @@
 
 #### Stats :bar_chart:
 
+<p align="center">
+  
+  [![Alex's github streak](https://github-readme-streak-stats.herokuapp.com/?user=TigselemaAlex&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
+</p>
 
-[![Alex's github streak](https://github-readme-streak-stats.herokuapp.com/?user=TigselemaAlex&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 [![Alex's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TigselemaAlex&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
