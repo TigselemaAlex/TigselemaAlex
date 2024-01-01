@@ -28,7 +28,7 @@
 </p>
 
 ### Get in touch
-<a href="https://www.linkedin.com/in/alex-tigselema-pacheco-a66b92227/" target="_blank">
+<a href="https://www.linkedin.com/in/alex-tigselema-pacheco-a66b92227/" target="_blank"></a>
 
 
 <!--
