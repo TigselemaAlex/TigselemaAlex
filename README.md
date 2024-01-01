@@ -33,7 +33,10 @@ I am 29 years old, from Ecuador. :stars: I like to be always learning new things
 
 ### Get in touch
 <a href="https://www.linkedin.com/in/alex-tigselema-pacheco-a66b92227/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" alt="linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+</a>
+<a href="mailto:alex.tp19941121@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
 </a>
 
 
