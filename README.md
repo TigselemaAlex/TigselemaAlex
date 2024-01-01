@@ -3,6 +3,7 @@
 ### Hello!!! 👋 I am a full stack software engineer specialized in Spring Boot & Angular technologies.
 #### Technologies
 #### Stats
+[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=TigselemaAlex&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **TigselemaAlex/TigselemaAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
