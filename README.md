@@ -2,7 +2,7 @@
 ![title](./hero.png)
 ### Hello!!! 👋 I am a full stack software engineer specialized in Spring Boot & Angular technologies. :grinning:
 #### Technologies :computer:
-https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot
+![Angular](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 #### Stats :bar_chart:
 [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=TigselemaAlex&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
