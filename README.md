@@ -1,7 +1,7 @@
 
 ![title](./hero.png)
 ### Hello!!! 👋 I am a full stack software engineer specialized in Spring Boot & Angular technologies. :grinning:
-#### Technologies that I use :computer:
+### Technologies that I use :computer:
 ![Spring boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -15,9 +15,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 
-
-
-#### Stats :bar_chart:
+### Stats :bar_chart:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TigselemaAlex&theme=dracula" alt="stat1">
@@ -28,6 +26,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TigselemaAlex&theme=dracula" alt="stat3">
 </p>
+
+### Get in touch
+<a href="https://www.linkedin.com/in/alex-tigselema-pacheco-a66b92227/" target="_blank">
 
 
 <!--
