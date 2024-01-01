@@ -1,6 +1,10 @@
 
 ![title](./hero.png)
 ### Hello!!! 👋 I am a full stack software engineer specialized in Spring Boot & Angular technologies. :grinning:
+
+###About me :bowtie:
+I am 29 years old, from Ecuador. :stars: I like to be always learning new things. In my free time I listen to rock music :guitar: while I play video games like League of Legends or some racing simulation game :video_game:.
+
 ### Technologies that I use :computer:
 ![Spring boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
